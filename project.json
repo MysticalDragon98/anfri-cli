@@ -1,5 +1,9 @@
 {
     "type": "ts",
-    "plugins": [],
+    "plugins": [
+        "repl",
+        "web3",
+        "http-proxies"
+    ],
     "options": {}
 }
